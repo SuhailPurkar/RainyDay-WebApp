@@ -2,14 +2,14 @@
 
 
 
-#Screenshot 
+##Screenshot 
 [<img src="http://i.imgur.com/YnMM5G0.png" height=275 width=750>](http://i.imgur.com/YnMM5G0.png)
 
 
-# Demo
+## Demo
 https://rainyday-58237.firebaseapp.com/
 
-# Local Host 
+## Local Host 
 ```
 git clone https://github.com/SuhailPurkar/RainyDay-WebApp.git pwa-weather
 cd pwa-weather
