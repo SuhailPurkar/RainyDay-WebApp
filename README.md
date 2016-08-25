@@ -3,7 +3,7 @@
 
 
 #Screenshot 
-[<img src="http://i.imgur.com/YnMM5G0.png" width=500>](http://i.imgur.com/YnMM5G0.png)
+[<img src="http://i.imgur.com/YnMM5G0.png" height=500 width=750>](http://i.imgur.com/YnMM5G0.png)
 
 
 # Demo
