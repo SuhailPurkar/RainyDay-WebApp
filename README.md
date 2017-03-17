@@ -1,4 +1,4 @@
-#RainyDay-WebApp
+# RainyDay-WebApp
 
 A progressive web app for the weather that utilizes serviceWorker for caching static assets in local cache to build an Offline first, fast and more friendly web experience for the user. 
 Built during Google code labs [Offline First Web Apps](https://codelabs.developers.google.com/codelabs/your-first-pwapp/#0) tutorial. 
